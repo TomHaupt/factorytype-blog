@@ -17,6 +17,7 @@
   };
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+
   </head>
   <body>
     
@@ -34,23 +35,24 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>In mathematics, a <strong>group</strong> is a set equipped with an operation that combines any two elements to form a third element, while satisfying four fundamental properties: closure, associativity, identity, and invertibility.
-In abstract algebra, a <strong>group</strong> is a set equipped with a binary operation that satisfies four axioms:</p>
-<ol>
-<li><strong>Closure</strong>: For all ( a, b \in G ), the result of the operation ( a \cdot b ) is also in ( G ).</li>
-<li><strong>Associativity</strong>: For all ( a, b, c \in G ), ( (a \cdot b) \cdot c = a \cdot (b \cdot c) ).</li>
-<li><strong>Identity element</strong>: There exists an element ( e \in G ) such that ( a \cdot e = e \cdot a = a ) for all ( a \in G ).</li>
-<li><strong>Inverse element</strong>: For each ( a \in G ), there exists an element ( b \in G ) such that ( a \cdot b = b \cdot a = e ).</li>
-</ol>
-<p>Groups form the backbone of symmetry, structure, and transformation in mathematics.
-Groups are fundamental in various fields of mathematics and science, including physics, chemistry, and computer science, where they help describe symmetries and conservation laws.
-They are also crucial in cryptography, coding theory, and the study of molecular structures.
-Groups can be finite or infinite, abelian (commutative) or non-abelian, and they can be studied through their subgroups, cosets, and quotient groups.
-Understanding groups and their properties is essential for exploring more advanced mathematical concepts and applications.
-A classic example of a group is the set of integers ( \mathbb{Z} ) under addition, where the identity element is 0, and the inverse of any integer ( n ) is its negative ( -n ).
-Another example is the set of non-zero real numbers ( \mathbb{R}^* ) under multiplication, where the identity element is 1, and the inverse of any non-zero real number ( x ) is ( \frac{1}{x} ).
-Groups can also be represented through matrices, permutations, and symmetries of geometric objects, providing a rich framework for understanding transformations and invariants in various contexts.
-For more detailed information, you can refer to resources such as <a href="https://en.wikipedia.org/wiki/Group_(mathematics)">Wikipedia&rsquo;s Group Theory</a> or textbooks on abstract algebra.</p>
+      <p>Let ( G ) be a group…</p>
+<p>$$
+(a \cdot b) \cdot c = a \cdot (b \cdot c)
+$$</p>
+<h2 id="group-axioms">Group Axioms</h2>
+<p>Let a group be some set with an operation denoted by $$ G=(G,\circ) $$ be in accordance with the following axioms:<br></p>
+<h2 id="closure">closure:</h2>
+<p>$$
+\forall a,b\in G, a\circ b\in G
+$$</p>
+<h2 id="identity">identity:</h2>
+<p>$$
+\exists e \in G, \forall a \in G : e\circ a=a\circ e=a
+$$</p>
+<h2 id="inverse">inverse:</h2>
+<p>$$
+\exists b \in G, \forall a \in G : a\circ b=b\circ a=e
+$$</p>
     </div>
     <a href="/posts/definition-of-a-group/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
