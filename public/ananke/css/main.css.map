@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/facto/factorytype-blog",
+	"sourceRoot": "C:/users/facto/factorytype-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],

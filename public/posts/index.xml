@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Factorytype Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Sep 2025 15:40:39 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 13:35:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definition of a Group</title>
+      <link>http://localhost:1313/posts/definition-of-a-group/</link>
+      <pubDate>Wed, 24 Sep 2025 13:35:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/definition-of-a-group/</guid>
+      <description>&lt;p&gt;In mathematics, a &lt;strong&gt;group&lt;/strong&gt; is a set equipped with an operation that combines any two elements to form a third element, while satisfying four fundamental properties: closure, associativity, identity, and invertibility.&#xA;In abstract algebra, a &lt;strong&gt;group&lt;/strong&gt; is a set equipped with a binary operation that satisfies four axioms:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Closure&lt;/strong&gt;: For all ( a, b \in G ), the result of the operation ( a \cdot b ) is also in ( G ).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Associativity&lt;/strong&gt;: For all ( a, b, c \in G ), ( (a \cdot b) \cdot c = a \cdot (b \cdot c) ).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Identity element&lt;/strong&gt;: There exists an element ( e \in G ) such that ( a \cdot e = e \cdot a = a ) for all ( a \in G ).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inverse element&lt;/strong&gt;: For each ( a \in G ), there exists an element ( b \in G ) such that ( a \cdot b = b \cdot a = e ).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Groups form the backbone of symmetry, structure, and transformation in mathematics.&#xA;Groups are fundamental in various fields of mathematics and science, including physics, chemistry, and computer science, where they help describe symmetries and conservation laws.&#xA;They are also crucial in cryptography, coding theory, and the study of molecular structures.&#xA;Groups can be finite or infinite, abelian (commutative) or non-abelian, and they can be studied through their subgroups, cosets, and quotient groups.&#xA;Understanding groups and their properties is essential for exploring more advanced mathematical concepts and applications.&#xA;A classic example of a group is the set of integers ( \mathbb{Z} ) under addition, where the identity element is 0, and the inverse of any integer ( n ) is its negative ( -n ).&#xA;Another example is the set of non-zero real numbers ( \mathbb{R}^* ) under multiplication, where the identity element is 1, and the inverse of any non-zero real number ( x ) is ( \frac{1}{x} ).&#xA;Groups can also be represented through matrices, permutations, and symmetries of geometric objects, providing a rich framework for understanding transformations and invariants in various contexts.&#xA;For more detailed information, you can refer to resources such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Group_(mathematics)&#34;&gt;Wikipedia&amp;rsquo;s Group Theory&lt;/a&gt; or textbooks on abstract algebra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Wed, 24 Sep 2025 13:20:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;The blog is live, the pipeline is clean, and the domain is mine.&lt;/p&gt;&#xA;&lt;p&gt;This post marks the moment I crossed the threshold—from tinkering to publishing. Every step is versioned, documented, and reproducible. No hidden barriers. No institutional lock-in.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to factorytype.&#xA;Here, I share workflows that empower digital autonomy and systems thinking. Expect deep dives into tools, techniques, and philosophies that help reclaim control over our digital lives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Sep 2025 12:47:22 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post!&lt;/p&gt;&#xA;&lt;p&gt;This site documents reproducible workflows, digital autonomy, and systems thinking. Stay tuned.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to Factorytype</title>
       <link>http://localhost:1313/posts/welcome/</link>
