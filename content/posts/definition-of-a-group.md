@@ -5,27 +5,24 @@ draft = false
 tags = ["Groups"]
 categories = ["math"]
 +++
-Let \( G \) be a group…
+### Group Axioms
+Let a group be some set with an operation denoted by $$ G=(G,\circ) $$ be in accordance with the following axioms:
 
 $$
-(a \cdot b) \cdot c = a \cdot (b \cdot c)
+\text{Closure: }\quad\forall a,b\in G, a\circ b\in G
 $$
 
-## Group Axioms
-Let a group be some set with an operation denoted by $$ G=(G,\circ) $$ be in accordance with the following axioms:<br>
-## closure: 
 $$
-\forall a,b\in G, a\circ b\in G
+\text{Identity: }\quad\exists e \in G, \forall a \in G : e\circ a=a\circ e=a 
 $$
-## identity: 
+
 $$
-\exists e \in G, \forall a \in G : e\circ a=a\circ e=a 
+\text{Inverse: }\quad\exists b \in G, \forall a \in G : a\circ b=b\circ a=e
 $$
-## inverse: 
+
 $$
-\exists b \in G, \forall a \in G : a\circ b=b\circ a=e
+\text{Associativity: }\quad\forall a,b,c \in G, a\circ(b\circ c)=(a\circ b)\circ c
 $$
-## associativity: 
-$$
-\forall a,b,c \in G, a\circ(b\circ c)=(a\circ b)\circ c
-$$
+Let \( G \) be a group with operation \( \circ \)
+
+
