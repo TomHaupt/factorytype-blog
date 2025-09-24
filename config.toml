@@ -6,4 +6,10 @@ theme = 'ananke'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+	 
+	 [[menu.main]]
+  name = "Custom Page"
+  url = "/custom/my-page.html"
+  weight = 50
+
 
