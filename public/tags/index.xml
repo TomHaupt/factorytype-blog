@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Factorytype Blog</title>
-    <link>https://blog.factorytype.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Factorytype Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.factorytype.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://blog.factorytype.com/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.factorytype.com/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Static Sites</title>
-      <link>https://blog.factorytype.com/tags/static-sites/</link>
+      <link>http://localhost:1313/tags/static-sites/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.factorytype.com/tags/static-sites/</guid>
+      <guid>http://localhost:1313/tags/static-sites/</guid>
       <description></description>
     </item>
     <item>
       <title>Groups</title>
-      <link>https://blog.factorytype.com/tags/groups/</link>
+      <link>http://localhost:1313/tags/groups/</link>
       <pubDate>Wed, 24 Sep 2025 13:35:00 -0600</pubDate>
-      <guid>https://blog.factorytype.com/tags/groups/</guid>
+      <guid>http://localhost:1313/tags/groups/</guid>
       <description></description>
     </item>
   </channel>
