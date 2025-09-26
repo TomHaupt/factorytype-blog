@@ -1,0 +1,17 @@
+<h2>📦 Static Assets</h2>
+<ul>
+  {{ $static := "static" }}
+  {{ $files := readDir $static }}
+  {{ range $files }}
+    {{ $path := printf "%s/%s" $static .Name }}
+    {{ if .IsDir }}
+      {{ $subfiles := readDir $path }}
+      {{ range $subfiles }}
+        {{ $rel := printf "%s/%s" .Name .Name }}
+        <li><a href="/custom/{{ .Name }}">{{ .Name }}</a></li>
+      {{ end }}
+    {{ else }}
+      <li><a href="/{{ .Name }}">{{ .Name }}</a></li>
+    {{ end }}
+  {{ end }}
+</ul>
