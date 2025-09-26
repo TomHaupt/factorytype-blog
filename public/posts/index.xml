@@ -6,21 +6,6 @@
     <description>Recent content in Posts on Factorytype Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding Static Site Generators</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Static site generators like Hugo offer speed and simplicity&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is fast, flexible, and supports custom layouts&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;built-in-features&#34;&gt;Built-in Features&lt;/h3&gt;&#xA;&lt;p&gt;From taxonomies to shortcodes, Hugo has it all&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deployment&#34;&gt;Deployment&lt;/h2&gt;&#xA;&lt;p&gt;You can deploy with Netlify, GitHub Pages, or any CDN&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;p&gt;Static sites are ideal for reproducible workflows&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Definition of a Group</title>
-      <link>http://localhost:1313/posts/definition-of-a-group/</link>
-      <pubDate>Wed, 24 Sep 2025 13:35:00 -0600</pubDate>
-      <guid>http://localhost:1313/posts/definition-of-a-group/</guid>
-      <description>&lt;h2 id=&#34;group-axioms&#34;&gt;Group Axioms&lt;/h2&gt;&#xA;&lt;p&gt;Let a group be some set with an operation denoted by $$ G=(G,\circ) $$ be in accordance with the following axioms:&lt;/p&gt;&#xA;&lt;h3 id=&#34;closure&#34;&gt;Closure&lt;/h3&gt;&#xA;&lt;p&gt;$$&#xA;\text{Closure: }\quad\forall a,b\in G, a\circ b\in G&#xA;$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;identity&#34;&gt;Identity&lt;/h3&gt;&#xA;&lt;p&gt;$$&#xA;\text{Identity: }\quad\exists e \in G, \forall a \in G : e\circ a=a\circ e=a&#xA;$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;inverse&#34;&gt;Inverse&lt;/h3&gt;&#xA;&lt;p&gt;$$&#xA;\text{Inverse: }\quad\exists b \in G, \forall a \in G : a\circ b=b\circ a=e&#xA;$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;associativity&#34;&gt;Associativity&lt;/h3&gt;&#xA;&lt;p&gt;$$&#xA;\text{Associativity: }\quad\forall a,b,c \in G, a\circ(b\circ c)=(a\circ b)\circ c&#xA;$$&#xA;Let ( G ) be a group with operation ( \circ )&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
