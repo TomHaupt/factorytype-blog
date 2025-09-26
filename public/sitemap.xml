@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/static-sites/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test-post/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-24T13:35:00-06:00</lastmod>
   </url><url>
@@ -14,31 +32,6 @@
     <loc>http://localhost:1313/categories/math/</loc>
     <lastmod>2025-09-24T13:35:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-24T13:35:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-24T13:35:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-24T13:35:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/autonomy/</loc>
-    <lastmod>2025-09-24T13:20:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2025-09-24T13:20:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
-    <lastmod>2025-09-24T13:20:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/workflow/</loc>
-    <lastmod>2025-09-24T13:20:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-09-24T12:47:22-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/welcome/</loc>
-    <lastmod>2025-09-23T15:40:39-06:00</lastmod>
+    <loc>http://localhost:1313/toc/</loc>
   </url>
 </urlset>

@@ -3,3 +3,15 @@ resources/
 node_modules/
 .DS_Store
 *.log
+# Ignore Netlify build cache (if present)
+.netlify/
+
+# Ignore system/editor files
+*.swp
+*.swo
+*.bak
+*.tmp
+Thumbs.db
+
+# Ignore Hugo server cache (if used)
+hugo_stats.json

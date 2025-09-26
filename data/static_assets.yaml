@@ -1,0 +1,7 @@
+﻿---
+- name: "dihedral3.html"
+  path: "/custom\dihedral3.html"
+- name: "Homomorphism.html"
+  path: "/custom\Homomorphism.html"
+- name: "Isomorphism.html"
+  path: "/custom\Isomorphism.html"

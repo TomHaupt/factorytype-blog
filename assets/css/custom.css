@@ -1,0 +1,26 @@
+.toc-panel {
+  position: show;
+  top: 100px;
+  left: 20px;
+  width: 250px;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-right: 1px solid #ddd;
+  font-size: 0.9rem;
+}
+.toc-panel ul {
+  list-style: none;
+  padding-left: 0;
+}
+.toc-panel li {
+  margin-bottom: 0.5rem;
+}
+.toc-panel a {
+  text-decoration: none;
+  color: #333;
+}
+.toc-panel a:hover {
+  text-decoration: underline;
+}
