@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.factorytype.com/'
 languageCode = 'en-us'
 title = 'Factorytype Blog'
 theme = 'ananke'

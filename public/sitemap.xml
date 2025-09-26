@@ -2,36 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.factorytype.com/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://blog.factorytype.com/tags/hugo/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.factorytype.com/posts/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/static-sites/</loc>
+    <loc>https://blog.factorytype.com/tags/static-sites/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.factorytype.com/tags/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test-post/</loc>
+    <loc>https://blog.factorytype.com/posts/test-post/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.factorytype.com/posts/definition-of-a-group/</loc>
     <lastmod>2025-09-24T13:35:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/definition-of-a-group/</loc>
+    <loc>https://blog.factorytype.com/tags/groups/</loc>
     <lastmod>2025-09-24T13:35:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/groups/</loc>
-    <lastmod>2025-09-24T13:35:00-06:00</lastmod>
+    <loc>https://blog.factorytype.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/math/</loc>
-    <lastmod>2025-09-24T13:35:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toc/</loc>
+    <loc>https://blog.factorytype.com/toc/</loc>
   </url>
 </urlset>
