@@ -6,6 +6,28 @@
     <description>Recent content on Factorytype Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 12:00:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manifolds and Tensors</title>
+      <link>http://localhost:1313/posts/manifoldstensors/</link>
+      <pubDate>Sun, 05 Oct 2025 12:00:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/manifoldstensors/</guid>
+      <description>&lt;h3 id=&#34;manifolds&#34;&gt;Manifolds&lt;/h3&gt;&#xA;&lt;h4 id=&#34;definition&#34;&gt;Definition&lt;/h4&gt;&#xA;&lt;p&gt;A &lt;strong&gt;manifold&lt;/strong&gt; is a topological space that locally resembles Euclidean space near each point. More formally, an n-dimensional manifold is a space where every point has a neighborhood that is homeomorphic to an open subset of Rⁿ. This means that for any point on the manifold, you can find a small region around it that behaves like n-dimensional Euclidean space.&lt;/p&gt;&#xA;&lt;h4 id=&#34;examples&#34;&gt;Examples&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Circle (S¹)&lt;/strong&gt;: The circle is a 1-dimensional manifold because each point on the circle has a neighborhood that looks like an open interval in R¹.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sphere (S²)&lt;/strong&gt;: The sphere is a 2-dimensional manifold because each point on the sphere has a neighborhood that looks like an open disk in R².&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Torus (T²)&lt;/strong&gt;: The torus is a 2-dimensional manifold because each point on the torus has a neighborhood that looks like an open disk in R².&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;charts-and-atlases&#34;&gt;Charts and Atlases&lt;/h4&gt;&#xA;&lt;p&gt;To work with manifolds, we use &lt;strong&gt;charts&lt;/strong&gt; and &lt;strong&gt;atlases&lt;/strong&gt;. A chart is a homeomorphism from an open subset of the manifold to an open subset of Rⁿ. An atlas is a collection of charts that cover the entire manifold. The transition maps between overlapping charts must be smooth (infinitely differentiable) for the manifold to be considered a smooth manifold.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topological Spaces</title>
+      <link>http://localhost:1313/posts/topological-spaces/</link>
+      <pubDate>Sun, 05 Oct 2025 12:00:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/topological-spaces/</guid>
+      <description>&lt;p&gt;In general relativity, spacetime has the same structure as a topological space.&#xA;A &lt;strong&gt;topological space&lt;/strong&gt; is a set $X$ equipped with a collection of open subsets $T$ that satisfy the following properties for $O\in T$:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The union of any collection of sets in $T$ is also in $T$:&#xA;$\text{If } O_\alpha \in T \text{ for all } \alpha \in A, \text{ then } \bigcup_{\alpha \in A} O_\alpha \in T$, then:$$\bigcup_{\alpha \in A} O_\alpha \in T$$&lt;/li&gt;&#xA;&lt;li&gt;The intersection of any finite number of sets in $T$ is also in $T$:&#xA;$\text{If }     O_1, O_2, \ldots, O_n \in T, \text{ then } U_1 \cap U_2 \cap \ldots \cap U_n \in T$, then:$$\bigcap_{i=1}^{n} O_i \in T$$&lt;/li&gt;&#xA;&lt;li&gt;The empty set $\emptyset$ and the entire set $X$ are in $T$.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>The Space Rⁿ and its Topology</title>
+      <link>http://localhost:1313/posts/distancefunction/</link>
+      <pubDate>Sat, 04 Oct 2025 12:00:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/distancefunction/</guid>
+      <description>&lt;h3 id=&#34;the-distance-function-in-rⁿ&#34;&gt;The Distance Function in Rⁿ&lt;/h3&gt;&#xA;&lt;p&gt;Points in the space Rⁿ are represented as n-tuples of real numbers, denoted as (x₁, x₂, &amp;hellip;, xₙ), where each xᵢ is a real number. The space Rⁿ is equipped with the standard Euclidean topology, which is defined using a distance function (or metric) that measures the distance between two points in Rⁿ. The distance function d: Rⁿ × Rⁿ → R is given by:&#xA;$$d((x₁, x₂, &amp;hellip;, xₙ), (y₁, y₂, &amp;hellip;, yₙ)) = √((x₁ - y₁)² + (x₂ - y₂)² + &amp;hellip; + (xₙ - yₙ)²)$$&#xA;This metric induces a topology on Rⁿ.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/d(A,B).png&#34; alt=&#34;d(A,B)&#34; width=&#34;200&#34;/&gt;&#xA;If the space is R², the distance between the points A and B is given by:&#xA;d((0,0), (3,4)) = √((0-3)² + (0-4)²) = √(9 + 16) = √25 = 5&lt;br&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
