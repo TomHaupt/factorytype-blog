@@ -29,5 +29,19 @@
       <guid>http://localhost:1313/posts/distancefunction/</guid>
       <description>&lt;h3 id=&#34;the-distance-function-in-rⁿ&#34;&gt;The Distance Function in Rⁿ&lt;/h3&gt;&#xA;&lt;p&gt;Points in the space Rⁿ are represented as n-tuples of real numbers, denoted as (x₁, x₂, &amp;hellip;, xₙ), where each xᵢ is a real number. The space Rⁿ is equipped with the standard Euclidean topology, which is defined using a distance function (or metric) that measures the distance between two points in Rⁿ. The distance function d: Rⁿ × Rⁿ → R is given by:&#xA;$$d((x₁, x₂, &amp;hellip;, xₙ), (y₁, y₂, &amp;hellip;, yₙ)) = √((x₁ - y₁)² + (x₂ - y₂)² + &amp;hellip; + (xₙ - yₙ)²)$$&#xA;This metric induces a topology on Rⁿ.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/d(A,B).png&#34; alt=&#34;d(A,B)&#34; width=&#34;200&#34;/&gt;&#xA;If the space is R², the distance between the points A and B is given by:&#xA;d((0,0), (3,4)) = √((0-3)² + (0-4)²) = √(9 + 16) = √25 = 5&lt;br&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Fission vs. Fusion</title>
+      <link>http://localhost:1313/posts/fissionfusion_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fissionfusion_/</guid>
+      <description>&lt;p&gt;a) Reaction: &lt;img src=&#34;https://latex.codecogs.com/gif.latex?^{235}U\to%20^{117}Sn\to%20^{118}Sn&#34;/&gt;&#xA;Calculate the energy released per fission and the energy release per atomic mass of fuel.&#xA;b) Reaction: &lt;img src=&#34;https://latex.codecogs.com/gif.latex?^2H%20+%20^3H%20\to%20^4He+n&#34;/&gt;&#xA;Calculate the energy released per fusion and the energy released per atomic mass unit of fuel.&lt;/p&gt;&#xA;&lt;p&gt;Here’s a full breakdown of both reactions, including energy released per event and per atomic mass unit of fuel:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;-a-fission&#34;&gt;🔬 a) Fission: &lt;img src=&#34;https://latex.codecogs.com/gif.latex?^{235}\text{U}%20\to%20^{117}\text{Sn}%20\to%20^{118}\text{Sn}&#34;/&gt;&lt;/h4&gt;&#xA;&lt;p&gt;This is a stylized representation of uranium-235 undergoing fission and producing tin isotopes. In reality, U-235 fission yields a wide range of products, but the &lt;strong&gt;average energy released per fission&lt;/strong&gt; is well established:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RTG</title>
+      <link>http://localhost:1313/posts/rtg_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rtg_/</guid>
+      <description>&lt;p&gt;Estimate the &lt;strong&gt;heat and electrical energy output&lt;/strong&gt; of a radioisotope thermoelectric generator (RTG) using 5 kg of Pu-238 over 50 years at 5% efficiency:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-step-1-key-properties-of-pu-238&#34;&gt;🔬 Step 1: Key Properties of Pu-238&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Half-life&lt;/strong&gt;: 87.7 years&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Specific power&lt;/strong&gt;: ~0.57 watts/gram (thermal)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Decay mode&lt;/strong&gt;: Alpha decay (no significant gamma or neutron radiation)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Energy per decay&lt;/strong&gt;: ~5.593 MeV&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-step-2-initial-thermal-power&#34;&gt;⚙️ Step 2: Initial Thermal Power&lt;/h3&gt;&#xA;&lt;p&gt;Pu-238 has a specific thermal power of:&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://latex.codecogs.com/gif.latex?0.57%20\,%20\text{W/g}%20\times%205000%20\,%20\text{g}%20=%202850%20\,%20\text{W}&#34;/&gt;&lt;/p&gt;  &#xA;&lt;p&gt;This is the &lt;strong&gt;initial thermal power&lt;/strong&gt; at time &lt;img src=&#34;https://latex.codecogs.com/gif.latex?t%20=%200&#34;/&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
